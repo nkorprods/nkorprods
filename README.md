@@ -1,4 +1,4 @@
-<img width="2400" height="720" alt="image" src="https://github.com/user-attachments/assets/92870bf5-3f4c-4b0d-b82a-328d15118e9d" />
+<img src="welcome.svg" alt="Welcome to my profile" width="100%">
 
 ### My Tools:
 
