@@ -4,7 +4,7 @@
 
 > [!TIP]
 > ### I'm a hellenic game developer and software engineer. You'll find game projects, plugins, and tools I've built, from early prototypes to releases polished enough to share. New additions land here every now and then.
-Feel free to browse and find use in something I've built, or reach out to me directly.
+### Feel free to browse and find use in something I've built, or reach out to me directly.
 
 ### My Tools:
 
